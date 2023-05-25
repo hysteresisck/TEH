@@ -1,20 +1,21 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "The Entrepreneurial Hour"
+subtitle: Where we provide practical feedback to rising entrepreneurs 
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: THE ENTREPRENEURIAL HOUR: A UNIQUE OPPORTUNITY
+
+    text: "We are a volunteer group of business leaders who offer advice to entrepreneurs. We expect absolutely nothing in return."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "The Entrepreneurial Hour (T.E.H.) is a “pay it forward” organization focused on helping entrepreneurs and startups succeed. The Entrepreneurial Hour holds weekly meetings where one founder/startup presents to a group of seasoned business leaders who offer friendly but candid advice. We offer practical feedback and a safe place to practice your pitch for a friendly community, present your company, build awareness, think through a challenge you’re facing, and be able to a get fresh perspective on an issue."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "This is a friendly community but not “friends and family.” Friends and family are very supportive and necessary to success and we give thanks for that. But they are not always objective or candid. We tell you what your family and friends won’t. This is tough love for the entrepreneur. We ask many questions of clarification and rigorously assess your ideas and marketability and the value of your opportunity or at least as much as time permits."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "We know how important support, encouragement, and honest feedback are, because many of us have been in your shoes. We want to pay it forward. So we give an hour of our time every week to help entrepreneurs like you. Some advice will resonate, and some won’t. You might even hear conflicting advice! Simply take what you like and leave the rest. We only ask you to have an open mind and take notes."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Team
+    text: Our team is a set of amazing indiviuals that work to help "pay-it-forward". We make sure you get the feedback you need to be sucessful. 
 ---
 
