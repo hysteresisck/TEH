@@ -4,7 +4,6 @@ subtitle: Where we provide practical feedback to rising entrepreneurs
 image: /img/home-jumbotron.jpg
 blurb:
     heading: THE ENTREPRENEURIAL HOUR: A UNIQUE OPPORTUNITY
-
     text: "We are a volunteer group of business leaders who offer advice to entrepreneurs. We expect absolutely nothing in return."
 intro:
     heading: "What we offer"
