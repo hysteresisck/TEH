@@ -16,6 +16,5 @@ products:
 values:
     heading: Our Team
     text: Our team is a set of amazing indiviuals that work to help "pay-it-forward". We make sure you get the feedback you need to be sucessful. 
-    image:/img/Team.png
----
+    ---
 
