@@ -25,15 +25,10 @@ values:
     imageUrl: "/img/Team.png"
   - heading: "Sponsers"
     text: >
-     Tech Alpharetta, the first organization of its kind in Georgia, was established in 2012 by the City of Alpharetta, GA. 
-     Comprised of Alpharetta’s leading technology companies, both large and small, the members are charged with identifying and pursuing key investment opportunities and policy decisions for Alpharetta’s technology  
-     companies and its burgeoning technology industry.
-     The City of Alpharetta is home to nearly 600 technology companies, making up 35% of Where Georgia Leads technology companies. The city also houses over a quarter of Metro Atlanta’s top 25 technology employers,
-     resulting in the city’s daytime working population exceeding that of residents. With one the most robust and redundant fibre and power fibre infrastructure networks in the south-east,
-     Alpharetta has been a central hub for new and relocating technology companies. To continue to foster this growth, the ATC’s mission has created four subcommittees to add value beyond geography.
-GROW – Designed to support entrepreneurship, innovation, and start-up tech.
-BUILD – Focused on identifying and developing advanced infrastructure that will support the technologies of tomorrow.
-BRAND – Creating new messaging that will help to attract new business investment and maintain Alpharetta’s position as a leading location for technology ventures
-ENGAGE – Enhancing relationships among Alpharetta’s technology companies and building understanding of the business in which they are engaged.
+      We want to truly empower the communities that bring amazing
+      coffee to you. That’s why we reinvest 20% of our profits into
+      farms, local businesses and schools everywhere our coffee is
+      grown. You can see the communities grow and learn more about
+  coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
