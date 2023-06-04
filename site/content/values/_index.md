@@ -23,12 +23,12 @@ values:
       Our Members are the vital individuals that attend each meeting to provide help and feedback to the presenters. 
       They are seasoned business leaders to experienced entrepreneurs, who share a common belief in "paying it forward" to help new entrepreneurs and companies succeed. 
     imageUrl: "/img/Team.png"
-  - heading: "Sponsers"
+  - heading: "Reinvest profits"
     text: >
-  We want to truly empower the communities that bring amazing
-  coffee to you. That’s why we reinvest 20% of our profits into
-  farms, local businesses and schools everywhere our coffee is
-  grown. You can see the communities grow and learn more about
-  coffee farming on our blog.
+      We want to truly empower the communities that bring amazing
+      coffee to you. That’s why we reinvest 20% of our profits into
+      farms, local businesses and schools everywhere our coffee is
+      grown. You can see the communities grow and learn more about
+      coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
