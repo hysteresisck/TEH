@@ -7,6 +7,7 @@ intro:
   description: >
     Welcome to The Entrepreneurial Hour (T.E.H.). It is held every Wednesday at 8 AM EST at Tech Alpharetta and virtually via Zoom. Entrepreneurs of all ages and at all stages from "dreamers"
     to early stage revenue producing companies are welcome to present. Entrepreneurs need to reassess their direction constantly during the early stages of bringing an idea to life. We offer you the chance to:  
+    
     - Practice your pitch for a friendly community  
     - Present your company and build awareness  
     - Think through a challenge you’re facing  
