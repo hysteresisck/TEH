@@ -1,6 +1,12 @@
 ---
 title: "How We Help"
 image: /img/Sponsors.png
+intro:
+  - heading: "Charles (Chuck) kaucher"
+    description: >
+      Chuck has over 25 years experience in business including Big 4 experience as a CPA and in the financial markets as a private trader. 
+      Comfortable in C-suite and senior management engagement where client relations are critical to business development and strategic alliances. 
+    imageUrl: "/img/Mr.Kaucher.png"
 values:
   - heading: "What your mother won’t tell you"
     text: >
