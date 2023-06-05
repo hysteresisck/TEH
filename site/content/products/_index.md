@@ -1,14 +1,17 @@
 ---
 title: HOW WE HELP?
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/blackscreen.png
 intro:
-  heading: What we offer
+  heading: The Entrepreneurial Hour
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Welcome to The Entrepreneurial Hour (T.E.H.). It is held every Wednesday at 8 AM EST at Tech Alpharetta and virtually via Zoom. Entrepreneurs of all ages and at all stages from "dreamers"
+    to early stage revenue producing companies are welcome to present. Entrepreneurs need to reassess their direction constantly during the early stages of bringing an idea to life. We offer you the chance to:
+    * Practice your pitch for a friendly community
+    * Present your company and build awareness
+    * Think through a challenge you’re facing
+    * Get fresh perspective on an issue
+ 
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
