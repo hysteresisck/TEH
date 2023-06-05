@@ -1,28 +1,22 @@
 ---
 title: "How We Help"
 image: /img/Sponsors.png
-intro:
-  - heading: "Charles (Chuck) kaucher"
-    description: >
-      Chuck has over 25 years experience in business including Big 4 experience as a CPA and in the financial markets as a private trader. 
-      Comfortable in C-suite and senior management engagement where client relations are critical to business development and strategic alliances. 
-    imageUrl: "/img/Mr.Kaucher.png"
 values:
-  - heading: "Tom Berger"
+  - heading: "What your mother won’t tell you"
     text: >
-      Tom has over 45 years in business, having led seven different companies as well as held the positions of a Company Officer/Board Member with several since 1990. 
-      Tom is also a mentor to startups at Tech Alpharetta. Tom also has published hundreds of business articles to his website CXO-Atlas
+    This is a friendly community but not “friends and family.” Friends and family are very supportive and necessary to success and we give thanks for that. But they are not always objective or candid. We tell you what your
+    mother won’t. This is tough love for the entrepreneur. We ask many questions of clarification and rigorously assess your ideas and marketability and the value of your opportunity or at least as much as time permits. 
     imageUrl: "/img/Tom.png"
-  - heading: "Scott Wold"
+  - heading: " Why do we do this?"
     text: >
-      Scott brings over 30 years of sales, marketing, business strategy, and executive leadership experience when mentoring founders of startups. 
-      Scott has led three companies as well as sat on the Board for two companies.
-      Scott is also active with several non-profits including Boy Scouts of America, Rotary International, and Kiwanis International 
+    We know how important support, encouragement, and honest feedback are, because many of us have been in your shoes. We want to pay it forward. So we give an hour of our time every week to help entrepreneurs like you. 
+    Some advice will resonate, and some won’t. You might even hear conflicting advice! Simply take what you like and leave the rest. We only ask you to have an open mind and take notes. 
     imageUrl: "/img/scott.png"
-  - heading: "Our Members"
+  - heading: "Present with us!"
     text: >
-      Our Members are the vital individuals that attend each meeting to provide help and feedback to the presenters. 
-      They are seasoned business leaders to experienced entrepreneurs, who share a common belief in "paying it forward" to help new entrepreneurs and companies succeed. 
+      We provide an interactive forum for entrepreneurs to present their business and any issues that they would like to discuss and receive objective, friendly feedback from the meeting participants. Comments are intended 
+      to be constructive pointing out both good and bad aspects of the business plan. This is not the last stop on your journey but we encourage repeat performances at The Entrepreneurial Hour. We hope to see you Wednesday 
+      @ 8AM EST for The Entrepreneurial Hour! 
     imageUrl: "/img/Team.png"
 ---
 
