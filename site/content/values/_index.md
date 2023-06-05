@@ -23,5 +23,4 @@ values:
       Our Members are the vital individuals that attend each meeting to provide help and feedback to the presenters. 
       They are seasoned business leaders to experienced entrepreneurs, who share a common belief in "paying it forward" to help new entrepreneurs and companies succeed. 
     imageUrl: "/img/Team.png"
-    imageUrl: "/img/sponsors.png"
 ---
