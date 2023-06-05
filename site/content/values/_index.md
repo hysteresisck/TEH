@@ -24,11 +24,10 @@ values:
       They are seasoned business leaders to experienced entrepreneurs, who share a common belief in "paying it forward" to help new entrepreneurs and companies succeed. 
     imageUrl: "/img/Team.png"
   - heading: "Reinvest profits"
-    text: >
+    imageUrl: "/img/sponsors.png"
+---
       We want to truly empower the communities that bring amazing
       coffee to you. That’s why we reinvest 20% of our profits into
       farms, local businesses and schools everywhere our coffee is
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
-    imageUrl: "/img/sponsors.png"
----
