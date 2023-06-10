@@ -6,7 +6,7 @@
    - Code lines with comments Do not remove this code are required for the form to work properly, make sure that you do not remove these lines of code. 
    - The Mandatory check script can modified as to suit your business needs. 
    - It is important that you test the modified form before going live.-->
-<div id='crmWebToEntityForm' class='zcwf_lblLeft crmWebToEntityForm' style='background-color: white;color: black;max-width: 600px;'>
+<div id='crmWebToEntityForm' class='zcwf_lblLeft crmWebToEntityForm' style='background-color: white;color: #000000;max-width: 600px;'>
   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
    <META HTTP-EQUIV ='content-type' CONTENT='text/html;charset=UTF-8'>
    <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads5784211000000418670 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory5784211000000418670()' accept-charset='UTF-8'>
@@ -165,15 +165,37 @@ html,body{
 	.zcwf_lblLeft .zcwf_col_help {width: 40%;}
 }
 </style>
-<div class='zcwf_title' style='max-width: 600px;color: black; font-family:Arial;'>Listaddtest</div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Company'>Email<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='Company' name='Company' maxlength='200'></input><div class='zcwf_col_help'></div></div></div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='First_Name'>First Name<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='First_Name' name='First Name' maxlength='40'></input><div class='zcwf_col_help'></div></div></div>
-<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Last_Name'>Last Name<span style='color:red;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='Last_Name' name='Last Name' maxlength='80'></input><div class='zcwf_col_help'></div></div></div><div class='zcwf_row'><div class='zcwf_col_lab'></div><div class='zcwf_col_fld'><input type='submit' id='formsubmit' class='formsubmit zcwf_button' value='Submit' title='Submit'><input type='reset' class='zcwf_button' name='reset' value='Reset' title='Reset'></div></div>
+<div class='zcwf_title' style='max-width: 600px;color: #000000; font-family:Arial;'>Mailing List</div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Email'>Email<span style='color:#000000;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' ftype='email' id='Email' name='Email' maxlength='100'></input><div class='zcwf_col_help'></div></div></div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='First_Name'>First Name<span style='color:#000000;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='First_Name' name='First Name' maxlength='40'></input><div class='zcwf_col_help'></div></div></div>
+<div class='zcwf_row'><div class='zcwf_col_lab' style='font-size:12px; font-family: Arial;'><label for='Last_Name'>Last Name<span style='color:#000000;'>*</span></label></div><div class='zcwf_col_fld'><input type='text' id='Last_Name' name='Last Name' maxlength='80'></input><div class='zcwf_col_help'></div></div></div><div class='zcwf_row'><div class='zcwf_col_lab'></div><div class='zcwf_col_fld'><input type='submit' id='formsubmit' class='formsubmit zcwf_button' value='Submit' title='Submit'><input type='reset' class='zcwf_button' name='reset' value='Reset' title='Reset'></div></div>
 	<script>
+	function validateEmail5784211000000418670()
+	{
+		var form = document.forms['WebToLeads5784211000000418670'];
+		var emailFld = form.querySelectorAll('[ftype=email]');
+		var i;
+		for (i = 0; i < emailFld.length; i++)
+		{
+			var emailVal = emailFld[i].value;
+			if((emailVal.replace(/^\s+|\s+$/g, '')).length!=0 )
+			{
+				var atpos=emailVal.indexOf('@');
+				var dotpos=emailVal.lastIndexOf('.');
+				if (atpos<1 || dotpos<atpos+2 || dotpos+2>=emailVal.length)
+				{
+					alert('Please enter a valid email address. ');
+					emailFld[i].focus();
+					return false;
+				}
+			}
+		}
+		return true;
+	}
 
  	  function checkMandatory5784211000000418670() {
-		var mndFileds = new Array('Company','First Name','Last Name');
-		var fldLangVal = new Array('Email','First\x20Name','Last\x20Name');
+		var mndFileds = new Array('First Name','Last Name','Email');
+		var fldLangVal = new Array('First\x20Name','Last\x20Name','Email');
 		for(i=0;i<mndFileds.length;i++) {
 		  var fieldObj=document.forms['WebToLeads5784211000000418670'][mndFileds[i]];
 		  if(fieldObj) {
@@ -206,7 +228,9 @@ html,body{
  	 	 	    }
 			} catch (e) {}
 		    }
-		}document.querySelector('.crmWebToEntityForm .formsubmit').setAttribute('disabled', true);
+		}
+		if(!validateEmail5784211000000418670()){return false;}
+		document.querySelector('.crmWebToEntityForm .formsubmit').setAttribute('disabled', true);
 	}
 
 function tooltipShow5784211000000418670(el){
@@ -225,4 +249,3 @@ function tooltipShow5784211000000418670(el){
 </script>
 	<!-- Do not remove this --- Analytics Tracking code starts --><script id='wf_anal' src='https://crm.zohopublic.com/crm/WebFormAnalyticsServeServlet?rid=91ca2f2c9a7e9c3696af5b236de3296ff4cbec79436cd79908fc27a606939e5dgid2a951fe787ab1b77d33b816aece3846fd80cf0aacc451776ef7f1b4ad2e6dfc0gid885e3c1045bd9bdcc91bdf30f82b5696gid14f4ec16431e0686150daa43f3210513&tw=61690b96c1d0471b638f31426f38e68aa67fb7ed6da86f32dc10ad817fe55a0a'></script><!-- Do not remove this --- Analytics Tracking code ends. --></form>
 </div>
-
