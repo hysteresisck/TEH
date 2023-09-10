@@ -10,10 +10,13 @@ import ProductsPreview from "./cms-preview-templates/HowWeHelp";
 import ValuesPreview from "./cms-preview-templates/AboutUs";
 import ContactPreview from "./cms-preview-templates/contact";
 
+
+
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("HowWeHelp", ProductsPreview);
 CMS.registerPreviewTemplate("AboutUs", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+
 CMS.init();
