@@ -12,7 +12,12 @@ const ContactEntries = ({data}) => data && data.length > 0
     </div>
     : "";
 
-<div#foo>
+export default class ThankPreview extends React.Component {
+  render() {
+    const {entry, getAsset, widgetFor} = this.props;
+    const entryContactEntries = entry.getIn(["data", "contact_entries"]);
+    const contactEntries = entryContactEntries ? entryContactEntries.toJS() : [];
+   <div#foo>
 <div class=content>
   <div class="wrapper-1">
     <div class="wrapper-2">
@@ -34,3 +39,5 @@ const ContactEntries = ({data}) => data && data.length > 0
 
  </div>
 <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Source+Sans+Pro" rel="stylesheet">
+  }
+}
