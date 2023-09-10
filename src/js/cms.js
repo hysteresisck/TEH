@@ -9,6 +9,8 @@ import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/HowWeHelp";
 import ValuesPreview from "./cms-preview-templates/AboutUs";
 import ContactPreview from "./cms-preview-templates/contact";
+import ThankPreview from "./cms-preview-templates/thankyou";
+
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -16,4 +18,5 @@ CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("HowWeHelp", ProductsPreview);
 CMS.registerPreviewTemplate("AboutUs", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerPreviewTemplate("thankyou", ThankPreview);
 CMS.init();
