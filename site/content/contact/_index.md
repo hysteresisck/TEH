@@ -3,9 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "2972 Webb Bridge Road,
-    /
-    Alpharetta, GA 30009"
+    text: "2972 Webb Bridge Road, Alpharetta, GA 30009"
   - heading: Meeting Hours
     text: "Every Wednesday Morning at 8AM"
 ---
