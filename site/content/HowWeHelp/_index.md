@@ -21,4 +21,5 @@ values:
     imageUrl: "/img/Team.png"
 ---
 
-
+<center><h1>Our Latest Article</h1>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7114653916365017088" height="662" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></center>
