@@ -1,5 +1,5 @@
 ---
-title: "About US"
+title: "Video"
 image: /img/Team.png
 values:
   - heading: "Charles (Chuck) kaucher"
