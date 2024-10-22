@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "2972 Webb Bridge Road,                        Alpharetta, GA 30009"
+    text: "925 North Point Pkwy. Suite 130 Alpharetta, GA 30005"
   - heading: Meeting Hours
     text: "Every Wednesday Morning at 8AM"
 ---
