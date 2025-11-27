@@ -6,7 +6,8 @@ values:
     text: >
       Chuck has over 25 years experience in business including Big 4 experience as a CPA and in the financial markets as a private trader. 
       Comfortable in C-suite and senior management engagement where client relations are critical to business development and strategic alliances. 
-    imageUrl: "/img/Mr.Kaucher.png"
+    //imageUrl: "/img/Mr.Kaucher.png" kaucher400x400.png
+    imageUrl: "/img/kaucher400x400.png"
   - heading: "Tom Berger"
     text: >
       Tom has over 45 years in business, having led seven different companies as well as held the positions of a Company Officer/Board Member with several since 1990. 
