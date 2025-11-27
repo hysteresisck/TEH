@@ -12,15 +12,13 @@ values:
       Tom has over 45 years in business, having led seven different companies as well as held the positions of a Company Officer/Board Member with several since 1990. 
       Tom is also a mentor to startups at Tech Alpharetta. Tom also has published hundreds of business articles to his website CXO-Atlas
     imageUrl: "/img/Tom.png"
-  - heading: "Scott Wold"
+  - heading: "Mike Wach"
     text: >
-      Scott brings over 30 years of sales, marketing, business strategy, and executive leadership experience when mentoring founders of startups. 
-      Scott has led three companies as well as sat on the Board for two companies.
-      Scott is also active with several non-profits including Boy Scouts of America, Rotary International, and Kiwanis International 
-    imageUrl: "/img/scott.png"
+     Mike Wach is a creative deep-tech engineer and entrepreneur whose 61 issued U.S. patents—licensed by more than 200 companies—span photonics, medicine, diagnostics, computing, and national defense. He blends multidisciplinary expertise with a proven record of building breakthrough technologies that challenge the status quo. He also brings rare, hands-on patent-law experience, having personally litigated and defended high-stakes IP cases against major corporations.He’s eager to help ambitious startups translate radical ideas into protected, world-changing products.
+    imageUrl: "/img/Wach800x800.png"
   - heading: "Our Members"
     text: >
-      Our Members are the vital individuals that attend each meeting to provide help and feedback to the presenters. 
-      They are seasoned business leaders to experienced entrepreneurs, who share a common belief in "paying it forward" to help new entrepreneurs and companies succeed. 
+      Our Members are the vital individuals that attend each meeting to provide help and feedback to the presenters. They have reserved an hour out of their day to hear you and give feedback you will find valuable.
+      These are seasoned business leaders to experienced entrepreneurs, who share a common belief in "paying it forward" to help new entrepreneurs and companies succeed. 
     imageUrl: "/img/Team.png"
 ---
