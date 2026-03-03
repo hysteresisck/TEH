@@ -16,5 +16,5 @@ to early-stage revenue-producing companies are welcome.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-Please reach out to <a href="mailto:kaucher@cgki.com">Chuck Kaucher</a>
+Please reach out to <a href="mailto:kaucher@cgki.com">Chuck Kaucher</a>, kaucher@cgki.com, 
  if you have any questions or would like to present your idea, strategy, company, or practice a pitch!
